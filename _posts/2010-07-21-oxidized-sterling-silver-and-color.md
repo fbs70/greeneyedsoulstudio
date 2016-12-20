@@ -2,7 +2,7 @@
 id: 269
 title: 'Still Searching for my rainbow&#8230;..Oxidized Sterling Silver and Color'
 date: 2010-07-21T17:08:29+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=269
 #permalink: /?p=269

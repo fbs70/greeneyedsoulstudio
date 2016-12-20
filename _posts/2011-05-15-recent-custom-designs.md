@@ -2,7 +2,7 @@
 id: 367
 title: Recent custom Designs
 date: 2011-05-15T07:43:35+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=367
 #permalink: /?p=367

@@ -2,7 +2,7 @@
 id: 439
 title: Recent Designs
 date: 2011-08-27T17:22:16+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=439
 #permalink: /?p=439

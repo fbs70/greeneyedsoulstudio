@@ -2,7 +2,7 @@
 id: 426
 title: to thine own self be true
 date: 2011-08-14T16:19:28+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=426
 #permalink: /?p=426

@@ -2,7 +2,7 @@
 id: 760
 title: May Custom Orders
 date: 2012-05-19T16:05:31+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=760
 #permalink: /?p=760

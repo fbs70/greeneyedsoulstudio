@@ -2,7 +2,7 @@
 id: 245
 title: Inspired by Summer and searching for my rainbow ; )
 date: 2010-07-20T18:58:53+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=245
 #permalink: /?p=245

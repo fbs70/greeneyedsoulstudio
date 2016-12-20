@@ -2,7 +2,7 @@
 id: 196
 title: '&#8220;Guardian Angel&#8221;'
 date: 2010-04-16T08:29:45+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=196
 #permalink: /?p=196

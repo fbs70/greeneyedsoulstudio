@@ -2,7 +2,7 @@
 id: 453
 title: Warrior Shield
 date: 2011-08-27T17:29:47+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=453
 #permalink: /?p=453

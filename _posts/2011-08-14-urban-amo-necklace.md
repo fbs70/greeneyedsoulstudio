@@ -2,7 +2,7 @@
 id: 414
 title: Urban Amo Necklace
 date: 2011-08-14T16:16:19+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=414
 #permalink: /?p=414

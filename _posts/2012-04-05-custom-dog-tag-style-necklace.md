@@ -2,7 +2,7 @@
 id: 738
 title: Custom Dog Tag Style Necklace
 date: 2012-04-05T21:48:03+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=738
 #permalink: /?p=738

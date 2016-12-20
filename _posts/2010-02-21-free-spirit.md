@@ -2,7 +2,7 @@
 id: 134
 title: Free Spirit
 date: 2010-02-21T13:02:26+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=134
 ##permalink: /?p=134

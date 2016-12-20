@@ -2,7 +2,7 @@
 id: 406
 title: Custom Fine Silver and Leather Cuff
 date: 2011-08-04T20:08:28+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=406
 #permalink: /?p=406

@@ -2,7 +2,7 @@
 id: 326
 title: Custom Orders from my October Trunk Show in Iowa
 date: 2010-11-21T17:53:46+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=326
 #permalink: /?p=326

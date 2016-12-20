@@ -2,7 +2,7 @@
 id: 222
 title: '&#8220;Dance in the Rain&#8221;'
 date: 2010-04-16T08:49:14+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=222
 #permalink: /?p=222

@@ -2,7 +2,7 @@
 id: 176
 title: New Designs coming near the end of April!!!
 date: 2010-04-04T08:53:16+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=176
 #permalink: /?p=176

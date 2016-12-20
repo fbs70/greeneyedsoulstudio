@@ -2,7 +2,7 @@
 id: 851
 title: July Custom Orders
 date: 2012-08-26T17:10:41+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=851
 ##permalink: /?p=851

@@ -2,7 +2,7 @@
 id: 387
 title: 'Hardware Collection sent to store in Cali : )'
 date: 2011-07-27T17:12:38+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=387
 #permalink: /?p=387

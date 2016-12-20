@@ -2,7 +2,7 @@
 id: 296
 title: New Designs
 date: 2010-11-06T13:53:08+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=296
 #permalink: /?p=296

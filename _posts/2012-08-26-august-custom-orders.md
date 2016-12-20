@@ -2,7 +2,7 @@
 id: 860
 title: August Custom Orders
 date: 2012-08-26T17:20:55+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=860
 #permalink: /?p=860

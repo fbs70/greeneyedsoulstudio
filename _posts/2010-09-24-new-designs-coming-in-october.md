@@ -2,7 +2,7 @@
 id: 288
 title: NEW DESIGNS COMING IN OCTOBER!!!
 date: 2010-09-24T08:54:52+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=288
 #permalink: /?p=288

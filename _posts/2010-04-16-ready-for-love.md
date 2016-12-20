@@ -2,7 +2,7 @@
 id: 212
 title: '&#8220;Ready for Love&#8221;'
 date: 2010-04-16T08:39:06+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=212
 #permalink: /?p=212

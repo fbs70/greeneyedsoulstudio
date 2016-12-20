@@ -2,7 +2,7 @@
 id: 752
 title: Leather Wrap Bracelets
 date: 2012-04-19T08:44:39+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=752
 #permalink: /?p=752

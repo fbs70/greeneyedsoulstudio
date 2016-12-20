@@ -2,7 +2,7 @@
 id: 837
 title: June Custom Orders
 date: 2012-06-24T21:34:24+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=837
 #permalink: /?p=837

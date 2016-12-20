@@ -2,7 +2,7 @@
 id: 372
 title: Designs for MOM
 date: 2011-05-15T07:48:36+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=372
 #permalink: /?p=372

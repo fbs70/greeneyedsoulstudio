@@ -2,7 +2,7 @@
 id: 783
 title: May Leather Wrap Designs
 date: 2012-05-22T10:05:15+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=783
 #permalink: /?p=783

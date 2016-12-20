@@ -2,7 +2,7 @@
 id: 399
 title: Custom Africa Necklace
 date: 2011-08-04T13:26:57+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=399
 #permalink: /?p=399

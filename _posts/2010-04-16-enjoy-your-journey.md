@@ -2,7 +2,7 @@
 id: 226
 title: '&#8220;Enjoy Your Journey&#8221;'
 date: 2010-04-16T08:54:41+00:00
-author: shotlowb
+author: mpatnode
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=226
 #permalink: /?p=226
