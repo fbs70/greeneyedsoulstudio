@@ -21,6 +21,9 @@ social:
 paginate: 2
 paginate_path: "/post/page:num/"
 
+#permalink
+permalink: /:year/:month/:day/:title.html
+
 # Google Analytics
 google_analytics_tracking_id:
 
