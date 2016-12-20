@@ -4,10 +4,10 @@ tagline: Wearable Art by Misti Patnode
 email: your-email@domain.com
 description:
 
-baseurl: "/greeneyedsoulstudio"
-url: "https://fbs70.github.io"
-#baseurl: ""
-#url: ""
+#baseurl: "/greeneyedsoulstudio"
+#url: "https://fbs70.github.io"
+baseurl: ""
+url: ""
 
 github_repo: "https://github.com/fbs70/greeneyedsoulstudio"
 
