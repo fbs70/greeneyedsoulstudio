@@ -5,10 +5,10 @@ date: 2010-04-16T08:54:41+00:00
 author: shotlowb
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=226
-permalink: /?p=226
+#permalink: /?p=226
 categories:
   - Green Eyed Soul
-  - Uncategorized
+  
 ---
 <a rel="attachment wp-att-227" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/04/elizapagecollection-0301.jpg"><img class="alignnone size-medium wp-image-227" title="elizapagecollection 030" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/04/elizapagecollection-0301-300x225.jpg" alt="" width="300" height="225" /></a><a rel="attachment wp-att-228" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/04/elizapagecollection-0311.jpg"><img class="alignnone size-medium wp-image-228" title="elizapagecollection 031" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/04/elizapagecollection-0311-300x225.jpg" alt="" width="300" height="225" /></a>
 

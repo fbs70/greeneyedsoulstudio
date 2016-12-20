@@ -5,10 +5,10 @@ date: 2011-08-04T20:08:28+00:00
 author: shotlowb
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=406
-permalink: /?p=406
+#permalink: /?p=406
 categories:
   - Green Eyed Soul
-  - Uncategorized
+  
 ---
 [<img class="alignnone size-medium wp-image-407" title="OLYMPUS DIGITAL CAMERA" src="http://greeneyedsoulstudio.com/wp-content/uploads/2011/08/africahorseshoecuff-027-300x230.jpg" alt="" width="300" height="230" />](http://greeneyedsoulstudio.com/wp-content/uploads/2011/08/africahorseshoecuff-027.jpg)[<img class="alignnone size-medium wp-image-408" title="OLYMPUS DIGITAL CAMERA" src="http://greeneyedsoulstudio.com/wp-content/uploads/2011/08/africahorseshoecuff-028-300x189.jpg" alt="" width="300" height="189" />](http://greeneyedsoulstudio.com/wp-content/uploads/2011/08/africahorseshoecuff-028.jpg)
 

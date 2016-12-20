@@ -5,10 +5,10 @@ date: 2010-07-20T18:58:53+00:00
 author: shotlowb
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=245
-permalink: /?p=245
+#permalink: /?p=245
 categories:
   - Green Eyed Soul
-  - Uncategorized
+  
 ---
 <a rel="attachment wp-att-248" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-0651.jpg"><img class="alignnone size-medium wp-image-248" title="dogs,yard,jewelry 065" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-0651-300x225.jpg" alt="" width="300" height="225" /></a><a rel="attachment wp-att-249" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-104.jpg"><img class="alignnone size-medium wp-image-249" title="dogs,yard,jewelry 104" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-104-300x225.jpg" alt="" width="300" height="225" /></a>
 

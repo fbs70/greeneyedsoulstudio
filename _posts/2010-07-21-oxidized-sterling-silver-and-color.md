@@ -5,14 +5,14 @@ date: 2010-07-21T17:08:29+00:00
 author: shotlowb
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=269
-permalink: /?p=269
+#permalink: /?p=269
 categories:
   - Green Eyed Soul
-  - Uncategorized
+  
 ---
 <a rel="attachment wp-att-270" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-0481.jpg"><img class="alignnone size-medium wp-image-270" title="dogs,yard,jewelry 048" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-0481-300x267.jpg" alt="" width="300" height="267" /></a><a rel="attachment wp-att-271" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-047.jpg"><img class="alignnone size-medium wp-image-271" title="dogs,yard,jewelry 047" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-047-300x225.jpg" alt="" width="300" height="225" /></a>
 
-<a rel="attachment wp-att-272" href="http://localhost:4567/wp-content/uploads/2010/07/dogsyardjewelry-004.jpg"><img class="alignnone size-medium wp-image-272" title="dogs,yard,jewelry 004" src="http://localhost:4567/wp-content/uploads/2010/07/dogsyardjewelry-004-225x300.jpg" alt="" width="225" height="300" /></a><a rel="attachment wp-att-273" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-064.jpg"><img class="alignnone size-medium wp-image-273" title="dogs,yard,jewelry 064" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-064-300x116.jpg" alt="" width="300" height="116" /></a>
+<a rel="attachment wp-att-272" href="/vendor/uploads/2010/07/dogsyardjewelry-004.jpg"><img class="alignnone size-medium wp-image-272" title="dogs,yard,jewelry 004" src="/vendor/uploads/2010/07/dogsyardjewelry-004-225x300.jpg" alt="" width="225" height="300" /></a><a rel="attachment wp-att-273" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-064.jpg"><img class="alignnone size-medium wp-image-273" title="dogs,yard,jewelry 064" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-064-300x116.jpg" alt="" width="300" height="116" /></a>
 
 <a rel="attachment wp-att-274" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-007.jpg"><img class="alignnone size-medium wp-image-274" title="dogs,yard,jewelry 007" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-007-300x225.jpg" alt="" width="300" height="225" /></a><a rel="attachment wp-att-275" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-071.jpg"><img class="alignnone size-medium wp-image-275" title="dogs,yard,jewelry 071" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/07/dogsyardjewelry-071-300x142.jpg" alt="" width="300" height="142" /></a>
 

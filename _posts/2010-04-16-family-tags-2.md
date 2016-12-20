@@ -5,10 +5,10 @@ date: 2010-04-16T08:36:45+00:00
 author: shotlowb
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=207
-permalink: /?p=207
+#permalink: /?p=207
 categories:
   - Green Eyed Soul
-  - Uncategorized
+  
 tags:
   - Family Tags
 ---

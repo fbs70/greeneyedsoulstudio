@@ -5,10 +5,10 @@ date: 2011-08-14T16:16:19+00:00
 author: shotlowb
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=414
-permalink: /?p=414
+#permalink: /?p=414
 categories:
   - Green Eyed Soul
-  - Uncategorized
+  
 ---
 **<span style="color: #000000;">Urban Amo Necklace</span>**&#8211; <span style="color: #800000;">Created from a 9mm shell casing and given a Lady like style</span>
 

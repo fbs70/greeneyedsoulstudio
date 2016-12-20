@@ -5,10 +5,10 @@ date: 2010-11-21T17:53:46+00:00
 author: shotlowb
 layout: post
 guid: http://greeneyedsoulstudio.com/?p=326
-permalink: /?p=326
+#permalink: /?p=326
 categories:
   - Green Eyed Soul
-  - Uncategorized
+  
 ---
 <a rel="attachment wp-att-327" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-389.jpg"><img class="alignnone size-medium wp-image-327" title="OLYMPUS DIGITAL CAMERA" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-389-300x295.jpg" alt="" width="300" height="295" /></a><a rel="attachment wp-att-328" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-391.jpg"><img class="alignnone size-medium wp-image-328" title="OLYMPUS DIGITAL CAMERA" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-391-300x268.jpg" alt="" width="300" height="268" /></a><a rel="attachment wp-att-329" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-392.jpg"><img class="alignnone size-medium wp-image-329" title="OLYMPUS DIGITAL CAMERA" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-392-300x225.jpg" alt="" width="300" height="225" /></a><a rel="attachment wp-att-330" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-408.jpg"><img class="alignnone size-medium wp-image-330" title="OLYMPUS DIGITAL CAMERA" src="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-408-300x225.jpg" alt="" width="300" height="225" /></a><a rel="attachment wp-att-331" href="http://greeneyedsoulstudio.com/wp-content/uploads/2010/11/october2010trunkshow-417.jpg"></a>
 
